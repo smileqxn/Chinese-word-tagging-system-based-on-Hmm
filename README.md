@@ -1,4 +1,5 @@
 # Chinese-word-tagging-system-based-on-Hmm
+cnblogs：https://www.cnblogs.com/xinglichao/p/8985831.html
 Hmm：
 //*******项目编码GBK
 //训练命令
