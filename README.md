@@ -1,9 +1,7 @@
-# Chinese-word-tagging-system-based-on-Hmm
-
-# 基于隐马尔科夫模型的中文词性标注
+# 基于隐马尔科夫模型的中文词性标注（Chinese-word-tagging-system-based-on-Hmm）
 
 
-cnblogs：https://www.cnblogs.com/xinglichao/p/8985831.html
+## cnblogs：https://www.cnblogs.com/xinglichao/p/8985831.html
 
 
 具体使用方法参考各项目内的readme
